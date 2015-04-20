@@ -1,5 +1,6 @@
 # lab4
 (a) encoded identifiers
+
 0000000000600e50 d _DYNAMIC
 
 0000000000600fe8 d _GLOBAL_OFFSET_TABLE_
@@ -68,7 +69,9 @@
 0000000000400490 t frame_dummy
 
 000000000040050a T main
+
 (b)
+
 output:
 
 1 8(前者是char的size  後者為64bits pointer的size )
